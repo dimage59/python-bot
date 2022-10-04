@@ -7,7 +7,7 @@ import os
 
 
 '''**********************************************************команды*****************************************************************************'''
-token= "5697385909:AAE6HLFD0JcSUk1Nkk_YM7RNRhvCDuyqF3I"
+token= "5793514729:AAGcSJgGpR7gaoqN-QEB-OMIYbiCLhdIFjU"
 
 bot= Bot(token=token)
 dp= Dispatcher(bot)
