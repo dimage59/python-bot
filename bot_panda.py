@@ -7,7 +7,7 @@ import os
 
 '''**********************************************************команды*****************************************************************************'''
 
-bot= Bot(token=os.getenv("TOKEN"))
+bot= Bot(token=5697385909:AAE6HLFD0JcSUk1Nkk_YM7RNRhvCDuyqF3I)
 dp= Dispatcher(bot)
 async def on_startup(_):
 	await bot.send_message(290662407,'я тута')
